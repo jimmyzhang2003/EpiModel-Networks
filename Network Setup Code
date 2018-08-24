@@ -21,5 +21,5 @@ control <- control.net(type = "SI", nsims = 3, nsteps = 500, nwstats.formula = ~
 #simulations
 sim <- netsim(est, param, init, control)
 sim
-plot(sim, type = "formation", plot.joined = FALSE)
+plot(sim, type = "formation", plots.joined = FALSE)
 plot(sim, popfrac = FALSE)
