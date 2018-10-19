@@ -1,2 +1,2 @@
 # EpiModel-Networks
-EpiModel with Node Predictability
+Calculating node predictability in EpiModel's network models.
