@@ -22,10 +22,10 @@ install.packages("ggplot2")
 ### About EpiModel
 EpiModel is an R package and a disease modeling framework that provides the tools for building a variety of disease models: deterministic compartmental models, stochastic individual contact models, and stochastic network models. Network models in EpiModel exhibit dynamic network behavior, which rely on a discrete time, separable temporal exponential-family random graph model (STERGM) framework, which allows for more realistic and accurate disease simulations.
 
-_Source code and more info available at: [Epimodel.org](http://www.epimodel.org/)
+_Source code and more info available at: [Epimodel.org](http://www.epimodel.org/)_
 
 ### About Predictability
 Nodewise predictability, a metric proposed by Jonas Haslbeck and Lourens Waldorp, demonstrates the extent to which a given node (or individual) can be predicted by all other connected  nodes  in  the  network. Predictability values range from zero to one, where one represents perfect predictability: each node is perfectly explained by all of the nodes connected to it. The tools for calculating predictability are contained in the `mgm` package.
 
 
-_Documentation available at: [mgm](https://cran.r-project.org/web/packages/mgm/mgm.pdf) 
+_Documentation available at: [mgm](https://cran.r-project.org/web/packages/mgm/mgm.pdf)_
