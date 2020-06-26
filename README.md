@@ -1,7 +1,7 @@
 # Assessing Predictability of Network Models in EpiModel
 Calculating node predictability in EpiModel's network models.
 
-![alt text](https://github.com/jimmyzhang2003/EpiModel_Network_Predictability/blob/master/images/epimodel_network_model.gif =250x)
+![alt text](https://github.com/jimmyzhang2003/EpiModel_Network_Predictability/blob/master/images/epimodel_network_model.gif =250x250)
 
 
 ## Getting Started
